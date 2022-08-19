@@ -1,0 +1,133 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.logo{
+    float:center;
+    display: inline;
+    }
+    .carousel-inner{
+        height: 50%;
+    }
+.nav-item{
+    margin: auto;
+    padding: auto;
+    font-style: italic;
+    color:black;
+    font: 100px;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.nav-link{
+    color: white;
+    border-radius: 5px;
+    margin: 0px;
+    padding: 0px;
+}
+.nav-link:hover{
+    background-color: aqua;
+}
+
+.card{
+    size: 5px;
+}
+
+.card-title{
+    text-transform: uppercase;
+}
+h3{
+    text-align: center;
+    margin: 20px;
+}
+.pl_about_us_widget{
+    text-align: center;
+}
+.section_header {
+    text-transform: uppercase;
+    font-family:sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
+.container1{
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+.centered_button{
+    text-align: center;
+}
+.f1{
+    text-align: center;
+}
+
+.img{
+    max-width: 20%;
+    margin: 80px;
+    padding: 0px;
+
+}
+.card{
+    text-align: center;
+    max-width: 50%;
+   
+   
+    
+}
+h5{
+    text-align: center;
+}
+.container{
+   
+    margin: 0px;
+    padding: 0px;
+    max-width: 100%;
+   
+    color: white;
+}
+.container3{
+    background-color: black;
+    margin: 0px;
+    padding: 0px;
+    max-width: 100%;
+   
+    color: white;
+}
+.media{
+    text-align: center;
+}
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+.light {
+    padding: 0 0 0 0 !important;
+}
+.wp-block-table {
+    width:70% !important;
+    border: 1px solid #428bca !important;
+    text-align:center !important;
+}
+.mobile_collapser {
+    display: block;
+    height: 51px;
+    text-align: left;
+    padding: 12px 25px;
+    color: #fff;
+    font-size: 16px;
+    line-height: 22px;
+    background-color: #428BCA;
+    border-bottom: solid 1px #216AA5;
+    margin-bottom: 0px;
+}
+.mobile_collapser {
+    background-color: #428bca !important;
+}
